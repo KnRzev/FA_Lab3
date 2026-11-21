@@ -1,0 +1,14 @@
+Tree 1:
+C
+    D
+        G
+        F
+        L
+        V
+            T
+            Z
+            B
+    W
+        A
+        H
+
